@@ -43,3 +43,6 @@ vagrant halt
 ```powershell
 vagrant destroy
 ```
+
+## Other Repository Documentation
+- [HackMD Integration](https://hackmd.io/@esten-rye/seis635-dev-hackmd)
